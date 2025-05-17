@@ -1,0 +1,16 @@
+.company-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-block-start: 63px;
+}
+
+.company-img {
+    filter: grayscale(100%);
+    transition: var(--transition);
+}
+
+.company-img:hover {
+    filter: grayscale(0%);
+    transition: var(--transition);
+}

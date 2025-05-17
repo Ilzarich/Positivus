@@ -1,0 +1,31 @@
+:root {
+    --text-color: #000000;
+    --accent: #B9FF66;
+    --color-button: #191A23;
+    --dark-text-color: #fff; 
+
+    --hover-services-block-search: #B9FF66;
+    --hover-bg-title-services-block-search:#fff;
+
+    --bg-title-services-block-pay:#fff;
+    --hover-bg-color-service-block-pay:#fff;
+
+    --bg-color-service-block-social: #191A23;
+    --bg-title-service-block-social: #fff;
+    --color-text-service-block-social: #fff;
+    --hover-bg-service-block-socia: #fff;
+    --hover-bg-title-service-block-social: #191A23;
+    --hover-color-title-service-block-social: #fff; 
+    --hover-bg-btn-service-block-social: #191A23;
+    --hover-color-btn-service-block-social: #191A23;
+
+    --main-fonts: "Space Grotesk";
+
+    --container-width: 1240px;
+    --container-padding-x: 15px;
+
+    --header-hight: 68px;
+    --hover-dark-text-color: #fff;
+
+    --transition: all 0.3s ease-in;
+}
