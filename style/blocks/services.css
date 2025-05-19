@@ -154,3 +154,108 @@
 .service-block-social:hover .social-btn-text {
     color: var(--hover-color-btn-service-block-social);
 }
+
+/* -------------------------------- */
+
+.title-email {
+    background-color: var(--accent);
+}
+
+.email-title-top {
+    width: 90px;
+}
+
+.email-title-buttom {
+    width: 161px;
+}
+
+.service-block-email:hover {
+    background-color: var(--accent);
+}
+
+.service-block-email:hover .title-email {
+    background-color: var(--hover-bg-title-services-block-email);
+}
+
+.service-block-email:hover .btn-email {
+    background: var(--color-button);
+}
+
+.service-block-email:hover .email-btn-text {
+    color: var(--dark-text-color);
+}
+
+/* -------------------------------- */
+
+.service-block-contenting {
+    background-color: var(--accent); 
+}
+
+.title-contenting {
+    background-color: var(--bg-title-services-block-contenting);
+}
+
+.contenting-title-top {
+    width: 133px;
+}
+
+.contenting-title-buttom {
+    width: 137px;
+}
+
+.service-block-contenting:hover {
+    background-color: var(--hover-bg-services-block-contenting);
+}
+
+.service-block-contenting:hover .title-contenting {
+    background-color: var(--accent);
+}
+
+.service-block-contenting:hover .btn-contenting {
+    background-color: var(--color-button);
+}
+
+.service-block-contenting:hover .contenting-btn-text {
+    color: var(--dark-text-color);
+}
+
+/* -------------------------------- */
+
+.service-block-analytics {
+    background-color: var(--bg-color-service-block-analytics);
+}
+
+.service-block-analytics:hover {
+    background-color: var(--hover-bg-service-block-analytics);
+}
+
+
+.title-analytics {
+    color: var(--color-title-service-block-analytics);
+    background-color: var(--bg-title-service-block-analytics);
+}
+
+.service-block-analytics:hover .title-analytics {
+    background-color: var(--hover-bg-title-service-block-analytics);
+    color: var(--hover-color-title-service-block-analytics);
+}
+
+.btn-analytics {
+    border: 2px solid transparent;
+}
+
+.service-block-analytics:hover .btn-analytics {  
+    border: 2px solid var(--color-button);
+}
+
+.service-block-analytics:hover .analytics-btn-text {
+    color: var(--text-color);
+}
+
+.analytics-title-buttom {
+    width: 138px;
+}
+
+.analytics-btn-text {
+    color: var(--btn-color-service-block-analytics); 
+}

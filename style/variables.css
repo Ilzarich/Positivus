@@ -19,6 +19,19 @@
     --hover-bg-btn-service-block-social: #191A23;
     --hover-color-btn-service-block-social: #191A23;
 
+    --hover-bg-title-services-block-email:#fff;
+
+    --bg-title-services-block-contenting:#fff;
+    --hover-bg-services-block-contenting:#fff;
+
+    --bg-color-service-block-analytics: #191A23;
+    --bg-title-service-block-analytics: #B9FF66;
+    --color-title-service-block-analytics: #191A23;
+    --btn-color-service-block-analytics: #fff;
+    --hover-bg-service-block-analytics: #fff;
+    --hover-color-title-service-block-analytics: #fff;
+    --hover-bg-title-service-block-analytics: #191A23;
+
     --main-fonts: "Space Grotesk";
 
     --container-width: 1240px;
